@@ -3,8 +3,10 @@
 this project analyzes bankingcustomer data using sql
 ## skills used
 -SQL
--Data Analysis
--Aggregations & Joins
+-pandas
+-matplotlib
+-python
+-data analysis
 ## Features
 -Customer Analysis
 -Transaction Insights
