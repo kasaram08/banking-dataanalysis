@@ -1,0 +1,6 @@
+CustomerID,Name,Age,City,Balance,Loan,Account
+101,Kiran,28,Chennai,15000.0,100000.0,Savings
+102,Ravi,35,Hyderabad,8000.0,0.0,Current
+103,Priya,42,Mumbai,22000.0,200000.0,Savings
+104,Sundar,25,Chennai,,,
+105,Meena,38,Delhi,,,
