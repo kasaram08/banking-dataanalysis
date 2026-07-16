@@ -1,0 +1,6 @@
+BANKING ANALYSIS - KEY INSIGHTS REPORT
+=============================================
+Total Customers: 11,162
+Deposit Rate: 47.38%
+Best Target: Students (74.72%)
+Analysis by: Kiran | Tools: Python, Pandas
