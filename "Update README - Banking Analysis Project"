@@ -1,0 +1,60 @@
+# 🏦 Banking Customer Analysis Project
+
+## 📌 Project Overview
+Analyzed **11,162 real bank customers** to identify deposit patterns 
+and provide actionable marketing recommendations using Python and Pandas.
+
+## 🎯 Business Problem
+Only 47.38% of customers made deposits. 
+The bank needed to identify which customer segments 
+are most likely to subscribe to term deposits.
+
+## 🔍 Key Findings
+
+### Customer Profile
+- Total Customers: 11,162
+- Average Age: 41.2 years
+- Average Balance: ₹1,528
+- Most Common Job: Management (2,566 customers)
+
+### Deposit Analysis
+- Deposit Rate: 47.38%
+- Best Segment: Students (74.72% deposit rate)
+- Worst Segment: Blue-collar (36.42% deposit rate)
+
+### Balance Insights
+- Highest Balance: ₹81,204
+- Lowest Balance: ₹-6,847 (debt)
+- 688 customers have negative balance
+
+## 💡 Recommendations
+1. Target students — highest deposit rate (74.72%)
+2. Launch special student savings account
+3. Create retirement savings scheme
+4. Debt recovery program for 688 customers
+5. Focus on single + tertiary educated customers
+
+## 🛠️ Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+- GitHub
+
+## 📊 Project Files
+| File | Description |
+|------|-------------|
+| Day1_Analysis.ipynb | DataFrame, Filtering, Sorting |
+| Day2_GroupBy.ipynb | GroupBy + Aggregations |
+| Day3_Cleaning.ipynb | Data Cleaning |
+| Day4_Merge.ipynb | DataFrame Merging |
+| Day5_Charts.ipynb | Matplotlib Visualizations |
+| Day6_MiniProject.ipynb | Complete Analysis |
+| banking_dashboard.png | Visual Dashboard |
+| banking_insights_report.txt | Insights Report |
+
+## 👤 Author
+**Kiran** | Aspiring Data Analyst
+- 1 year Banking Domain Experience
+- Central Bank of India Apprentice
+- Skills: Python, Pandas, SQL, Matplotlib
