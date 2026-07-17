@@ -24,7 +24,8 @@ segments are most likely to subscribe to term deposits.
 
 ## 🛠️ Tools & Technologies:
 - Languages: Python, SQL
-- Libraries: Pandas, Matplotlib, NumPy     
+- Libraries: Pandas, Matplotlib,
+- NumPy     
   Platforms: Google Colab, GitHub
 - Domain: Banking & Finance
 
