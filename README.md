@@ -22,12 +22,11 @@ segments are most likely to subscribe to term deposits.
 3. Create retirement savings scheme
 4. Debt recovery program for 688 customers
 
-## 🛠️ Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Google Colab
-- GitHub
+## 🛠️ Tools & Technologies:
+- Languages: Python, SQL
+- Libraries: Pandas, Matplotlib, NumPy
+  Platforms: Google Colab, GitHub
+- Domain: Banking & Finance
 
 ## 📊 Project Files
 | File | Description |
